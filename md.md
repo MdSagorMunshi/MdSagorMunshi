@@ -1,5 +1,6 @@
 <p align="center">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5XsoDbDt98b0FkFLOhsJuS?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
 <hr>
 
@@ -47,4 +48,3 @@
   <img alt="HarryWakazaki Youtube" width="100" src="https://cdn-icons-png.flaticon.com/128/187/187209.png" />
 </a>
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=MdSagorMunshi&label=T%E1%BB%95ng%20Ng%C6%B0%E1%BB%9Di%20Tham%20Quan&color=0e75b6&style=flat" alt="ALvee" /> </p>

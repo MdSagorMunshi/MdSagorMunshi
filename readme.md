@@ -18,7 +18,7 @@
 # 👑 Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MdSagorMunshi&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHubStats&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=MdSagorMunshi&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub_Stats&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats">
 </p>
 
 <hr>

@@ -4,6 +4,10 @@
 
 <hr>
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+
 # 👑 An Infomation About Me
 
 -    My name is Md Sagor Munshi.
@@ -48,5 +52,3 @@
   <img alt="HarryWakazaki Youtube" width="100" src="https://cdn-icons-png.flaticon.com/128/187/187209.png" />
 </a>
 <p align="right">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yFVeGtaYgqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

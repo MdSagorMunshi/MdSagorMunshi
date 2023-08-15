@@ -7,7 +7,7 @@
 
 - 💬 **I am ALvee. My Age 17+**
 
-- 📫 How to reach me **mdsagormunshixagor@gmail.com**
+- 📫 How to reach me **devilisgoing@gmail.com**
 
 - ⚡ Fun fact **I think I'm angrier than I need to be**
 

@@ -10,7 +10,7 @@
 - 📫 How to reach me **devilisgoing@gmail.com**
 
 - ⚡ Fun fact **I think I'm angrier than I need to be**
-- (theSagor.com)[https://theSagor.com]
+- [theSagor.com](https://theSagor.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

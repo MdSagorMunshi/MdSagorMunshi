@@ -33,13 +33,13 @@
   <a href="https://dev.to/mdsagormunshi" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/dev.png" alt="Dev.to" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/mdsagormunshixagor" target="blank">
+  <a href="https://linkedin.com/in/rynex" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://fb.com/mdsagormunshixagor" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/mdsagormunshixagor" target="blank">
+  <a href="https://instagram.com/leeswoo_s" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/instagram.png" alt="Instagram" height="30" width="30" />
   </a>
   <a href="https://www.youtube.com/@mdsagormunshixagor" target="blank">

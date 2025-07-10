@@ -22,7 +22,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  Hello! I'm Md Sagor Munshi, a passionate and dedicated programmer from Bangladesh. At 17, I’m constantly exploring new technologies and working on exciting projects. My primary focus is on creating impactful solutions through coding. I'm involved in various open-source initiatives and enjoy contributing to projects that make a difference. When I'm not coding, you can find me reading tech blogs, experimenting with new tools, or exploring the latest in technology. I’m always eager to learn and grow, and I look forward to connecting with like-minded individuals in the tech community.
+  Hello! I'm Md Sagor Munshi, a passionate and dedicated programmer from Bangladesh. At 19, I’m constantly exploring new technologies and working on exciting projects. My primary focus is on creating impactful solutions through coding. I'm involved in various open-source initiatives and enjoy contributing to projects that make a difference. When I'm not coding, you can find me reading tech blogs, experimenting with new tools, or exploring the latest in technology. I’m always eager to learn and grow, and I look forward to connecting with like-minded individuals in the tech community.
 </p>
 
 <h3 align="center">Connect with me:</h3>

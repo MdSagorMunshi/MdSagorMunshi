@@ -1,61 +1,134 @@
-<h1 align="center">Hi 👋, I'm Md Sagor Munshi</h1>
-<h3 align="center">A Passionate Programmer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdsagormunshi&label=Profile%20views&color=0e75b6&style=flat" alt="mdsagormunshi" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=System+Initialized...;ACCESSING+DATABASE...;USER:+Md+Sagor+Munshi;ROLE:+Passionate+Programmer;STATUS:+Online" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdsagormunshi" alt="mdsagormunshi" />
-  </a>
-</p>
+  <br/>
 
-<p align="center">
-  <a href="https://theSagor.com" target="_blank" rel="noopener noreferrer">🌐 Visit my website</a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=mdsagormunshi&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="mdsagormunshi" />
 
-<p align="center">
-  <a href="mailto:devilisgoing@gmail.com"><img src="https://img.shields.io/badge/Email-devilisgoing@gmail.com-blue?style=flat&logo=gmail" alt="Email" /></a>
-  <a href="https://www.buymeacoffee.com/mdsagormunshi"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?style=flat&logo=buy-me-a-coffee" alt="Buy Me a Coffee" /></a>
-</p>
+</div>
 
-<h3 align="center">About Me</h3>
-<p align="center">
-  Hello! I'm Md Sagor Munshi, a passionate and dedicated programmer from Bangladesh. At 19, I’m constantly exploring new technologies and working on exciting projects. My primary focus is on creating impactful solutions through coding. I'm involved in various open-source initiatives and enjoy contributing to projects that make a difference. When I'm not coding, you can find me reading tech blogs, experimenting with new tools, or exploring the latest in technology. I’m always eager to learn and grow, and I look forward to connecting with like-minded individuals in the tech community.
-</p>
+<div align="center">
+  <br />
+  <h2 style="color: #00F0FF; border-bottom: 2px solid #00F0FF; display: inline-block;">>>&nbsp;SYSTEM_OVERVIEW&nbsp;<<</h2>
+  <br />
+</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://codepen.io/mdsagormunshi" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="CodePen" height="30" width="30" />
-  </a>
-  <a href="https://dev.to/mdsagormunshi" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/dev.png" alt="Dev.to" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/rynex" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://fb.com/mdsagormunshixagor" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/leeswoo_s" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram.png" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://www.youtube.com/@mdsagormunshixagor" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube" height="30" width="30" />
-  </a>
-  <a href="https://t.me/leeswoo_s" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/telegram.png" alt="Telegram" height="30" width="30" />
-  </a>
-  <a href="https://www.reddit.com/user/leeswoo_s" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/reddit.png" alt="Reddit" height="30" width="30" />
-  </a>
-</p>
+<br />
 
-<h3 align="center">My GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsagormunshi&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsagormunshi" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsagormunshi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+```bash
+> whoami
+Md Sagor Munshi
+
+> location
+Bangladesh 🇧🇩
+
+> uptime
+19 years
+
+> description
+"Passionate and dedicated programmer. Constantly exploring new technologies.
+My primary focus is on creating impactful solutions through coding."
+```
+
+<br />
+
+<div align="center">
+  <h2 style="color: #bc13fe; border-bottom: 2px solid #bc13fe; display: inline-block;">>>&nbsp;TECH_STACK&nbsp;<<</h2>
+  <br />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,cpp,java,git,github,vscode,linux,docker,mongodb,mysql,firebase,figma&theme=dark&perline=10" />
+  </a>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <h2 style="color: #FF0055; border-bottom: 2px solid #FF0055; display: inline-block;">>>&nbsp;METRICS_DASHBOARD&nbsp;<<</h2>
+  <br />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mdsagormunshi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Md Sagor Munshi's Github Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsagormunshi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsagormunshi&theme=radical&hide_border=true&background=0d1117" alt="Md Sagor Munshi's Streak" />
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <h2 style="color: #FFFF00; border-bottom: 2px solid #FFFF00; display: inline-block;">>>&nbsp;ESTABLISH_CONNECTION&nbsp;<<</h2>
+  <br />
+
+  <a href="https://theSagor.com" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:devilisgoing@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/rynex">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <br />
+
+  <a href="https://github.com/mdsagormunshi">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://codepen.io/mdsagormunshi">
+    <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://dev.to/mdsagormunshi">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+
+  <br />
+
+  <a href="https://fb.com/mdsagormunshixagor">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/leeswoo_s">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/leeswoo_s">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.youtube.com/@mdsagormunshixagor">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <br />
+  <br />
+  
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=mdsagormunshi&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophy" />
+  </p>
+
+</div>
+
+<br />
+
+<div align="center">
+  <h2 style="color: #79ff4d; border-bottom: 2px solid #79ff4d; display: inline-block;">>>&nbsp;GAMIFICATION_PROTOCOL&nbsp;<<</h2>
+  <br />
+  
+  <!-- Snake Game -->
+  <a href="https://github.com/mdsagormunshi/mdsagormunshi/actions/workflows/snake.yml">
+    <img src="https://raw.githubusercontent.com/mdsagormunshi/mdsagormunshi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </a>
+  
+  <br />
+  <br />
+  
+  <!-- Random Joke -->
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  
+</div>

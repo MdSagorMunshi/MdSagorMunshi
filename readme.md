@@ -1,61 +1,159 @@
-<h1 align="center">Hi 👋, I'm Md Sagor Munshi</h1>
-<h3 align="center">A Passionate Programmer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a0d,100:000000&height=220&text=Ryan%20Shelby&fontSize=55&fontColor=00FF94&animation=fadeIn&fontAlignY=60&desc=Senior%20SWE%20%7C%20IT%20Specialist%20%7C%20Security%20Researcher&descSize=14&descColor=444444&descAlignY=80" />
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdsagormunshi&label=Profile%20views&color=0e75b6&style=flat" alt="mdsagormunshi" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1200&color=00FF94&center=true&vCenter=true&width=680&height=50&lines=builds+tools+that+feel+illegal+to+own.;finds+cracks+nobody+thought+to+look+for.;ships+at+4am.+sleeps+at+6am.+repeats.;the+terminal+is+the+only+UI+that+never+lied+to+me." />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdSagorMunshi&color=00ff94&style=flat-square&label=VISITORS" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF94?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/MODE-construct%20%E2%9F%B7%20infiltrate-FF2D55?style=flat-square&labelColor=0d0d0d" />
+</p>
+
+<br/>
+
+---
+
+```
+╭─────────────────────────────────────────────────────────────╮
+│                        ENTITY  FILE                         │
+├──────────────────────┬──────────────────────────────────────┤
+│  DESIGNATION         │  Ryan Shelby                         │
+│  FULL HANDLE         │  MdSagorMunshi                       │
+│  CLASSIFICATION      │  Senior SWE · IT Specialist          │
+│                      │  Security Researcher                 │
+│  ORIGIN              │  Khulna, Bangladesh                  │
+│  FIRST SIGNAL        │  2016                                │
+│  OPERATING DOMAINS   │  full-stack · mobile · blockchain    │
+│                      │  cybersecurity · machine learning    │
+│  THREAT LEVEL        │  ██████████ MAXIMUM  [ builder ]     │
+│                      │  ██████████ MAXIMUM  [ breaker ]     │
+│  CURRENT STATUS      │  ● ONLINE                            │
+╰──────────────────────┴──────────────────────────────────────╯
+```
+
+---
+
+<br/>
+
+<details>
+<summary><b>〔 ACCESS RESTRICTED — LEVEL 5 CLEARANCE REQUIRED 〕</b></summary>
+<br/>
+
+```
+DECRYPTING PAYLOAD ████████████████ 100%
+
+  > doesn't have hobbies. has rabbit holes.
+  > once found a vuln in production while deploying to production.
+  > reads source code the way others read novels.
+  > the diff is always wrong. the logic is always right.
+  > git blame points everywhere. git push points forward.
+```
+
+<br/>
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+### `// craft` &nbsp;—&nbsp; the build stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Rust-0d0d0d?style=for-the-badge&logo=rust&logoColor=CE422B" />
+  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=F7D44C" />
+  <img src="https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=00ADD8" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
+  <img src="https://img.shields.io/badge/NestJS-0d0d0d?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-0d0d0d?style=for-the-badge&logo=expo&logoColor=ffffff" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+
+<br/>
+
+### `// recon` &nbsp;—&nbsp; the break stack
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logo=metasploit&logoColor=2596CD" />
+  <img src="https://img.shields.io/badge/Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=00FF94" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+### `// output` &nbsp;—&nbsp; what the logs say
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MdSagorMunshi&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF94&icon_color=00FF94&text_color=888888&ring_color=00FF94&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdSagorMunshi&layout=compact&hide_border=true&bg_color=000000&title_color=00FF94&text_color=888888&langs_count=8" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdsagormunshi" alt="mdsagormunshi" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=MdSagorMunshi&hide_border=true&background=000000&stroke=1a1a1a&ring=00FF94&fire=FF2D55&currStreakLabel=00FF94&sideLabels=555555&dates=444444&currStreakNum=ffffff&sideNums=888888" />
 </p>
 
-<p align="center">
-  <a href="https://theSagor.com" target="_blank" rel="noopener noreferrer">🌐 Visit my website</a>
-</p>
+<br/>
+
+---
+
+<br/>
+
+### `// activity` &nbsp;—&nbsp; the trace
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MdSagorMunshi/MdSagorMunshi/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MdSagorMunshi/MdSagorMunshi/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/MdSagorMunshi/MdSagorMunshi/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
+---
+
+<br/>
 
 <p align="center">
-  <a href="mailto:devilisgoing@gmail.com"><img src="https://img.shields.io/badge/Email-devilisgoing@gmail.com-blue?style=flat&logo=gmail" alt="Email" /></a>
-  <a href="https://www.buymeacoffee.com/mdsagormunshi"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?style=flat&logo=buy-me-a-coffee" alt="Buy Me a Coffee" /></a>
+  <a href="mailto:ryn@disroot.org"><img src="https://img.shields.io/badge/ryn%40disroot.org-0d0d0d?style=flat-square&logo=protonmail&logoColor=00FF94" /></a>
+  &nbsp;
+  <a href="https://gitlab.com/rynex"><img src="https://img.shields.io/badge/gitlab%3A%20rynex-0d0d0d?style=flat-square&logo=gitlab&logoColor=FC6D26" /></a>
+  &nbsp;
+  <a href="https://t.me/leesiwoo_s"><img src="https://img.shields.io/badge/telegram%3A%20leesiwoo__s-0d0d0d?style=flat-square&logo=telegram&logoColor=2CA5E0" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rynex"><img src="https://img.shields.io/badge/linkedin%3A%20rynex-0d0d0d?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
 </p>
 
-<h3 align="center">About Me</h3>
+<br/>
+
 <p align="center">
-  Hello! I'm Md Sagor Munshi, a passionate and dedicated programmer from Bangladesh. At 19, I’m constantly exploring new technologies and working on exciting projects. My primary focus is on creating impactful solutions through coding. I'm involved in various open-source initiatives and enjoy contributing to projects that make a difference. When I'm not coding, you can find me reading tech blogs, experimenting with new tools, or exploring the latest in technology. I’m always eager to learn and grow, and I look forward to connecting with like-minded individuals in the tech community.
+  <sub>
+    <code>construct.</code> &nbsp;·&nbsp; <code>infiltrate.</code> &nbsp;·&nbsp; <code>repeat.</code>
+  </sub>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://codepen.io/mdsagormunshi" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="CodePen" height="30" width="30" />
-  </a>
-  <a href="https://dev.to/mdsagormunshi" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/dev.png" alt="Dev.to" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/rynex" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://fb.com/mdsagormunshixagor" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/leeswoo_s" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram.png" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://www.youtube.com/@mdsagormunshixagor" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube" height="30" width="30" />
-  </a>
-  <a href="https://t.me/leeswoo_s" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/telegram.png" alt="Telegram" height="30" width="30" />
-  </a>
-  <a href="https://www.reddit.com/user/leeswoo_s" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/reddit.png" alt="Reddit" height="30" width="30" />
-  </a>
-</p>
+<br/>
 
-<h3 align="center">My GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsagormunshi&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsagormunshi" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsagormunshi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a0d,100:000000&height=120&section=footer&reversal=true" />

@@ -24,7 +24,7 @@
 ├──────────────────────┬──────────────────────────────────────┤
 │  DESIGNATION         │  Ryan Shelby                         │
 │  FULL HANDLE         │  MdSagorMunshi                       │
-│  CLASSIFICATION      │  Senior SWE · IT Specialist          │
+│  CLASSIFICATION      │  SWE · IT Specialist                 │
 │                      │  Security Researcher                 │
 │  ORIGIN              │  Khulna, Bangladesh                  │
 │  FIRST SIGNAL        │  2016                                │

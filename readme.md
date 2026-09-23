@@ -30,7 +30,7 @@
 │  FIRST SIGNAL        │  2016                                │
 │  OPERATING DOMAINS   │  full-stack · mobile · blockchain    │
 │                      │  cybersecurity · machine learning    │
-│  THREAT LEVEL        │  ██████████ MAXIMUM  [ builder ]     │
+│  THREAT LEVEL        │  ---------- NONE  [ builder ]     │
 │                      │  ██████████ MAXIMUM  [ breaker ]     │
 │  CURRENT STATUS      │  ● ONLINE                            │
 ╰──────────────────────┴──────────────────────────────────────╯
